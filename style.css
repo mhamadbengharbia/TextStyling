@@ -1,0 +1,35 @@
+* {
+  margin: 10px;
+}
+h1 {
+  background-color: black;
+  color: white;
+  padding: 5px 5px 5px 20px;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 span {
+  color: aqua;
+}
+h2 {
+  text-align: center;
+  background-color: blueviolet;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font-style: italic;
+  font-size: 35px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  text-align: right;
+  background-color: cornflowerblue;
+  color: blueviolet;
+  font-weight: 400;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+}
